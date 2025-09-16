@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">::time:: 부터 시간재기</string>
+    <string name="set_time_by_voice">음성으로 시간 설정</string>
+    <string name="preferences">설정</string>
+    <string name="alarm">알람</string>
+    <string name="play_sound">사운드 재생</string>
+    <string name="play_sound_summary">0초에 사운드 재생</string>
+    <string name="choose_sound">사운드선택하기</string>
+    <string name="choose_sound_summary">0초에 울리는 사운드 선택하기</string>
+    <string name="vibrate">진동</string>
+    <string name="vibrate_summary">0초에 진동 설정</string>
+    <string name="indefinite_alarm">상호 작용까지 알람 울리기</string>
+    <string name="indefinite_alarm_summary">중지할 때까지 알람 유지하기</string>
+    <string name="preview_alarm">테스트 설정</string>
+    <string name="stop_alarm">중지하기</string>
+    <string name="energy">에너지</string>
+    <string name="stay_awake">유지하기</string>
+    <string name="stay_awake_summary">Ovo가 보이는 동안 계속 화면 유지하기</string>
+    <string name="about">정보</string>
+    <string name="about_ovo">이 어플리케이션에 대한 정보</string>
+    <string name="about_ovo_summary">Ovo에 대한 정보를 얻고 피드백 전달하기</string>
+    <string name="low_volume">볼륨이 너무 낮습니다</string>
+    <string name="muted">알람을 듣기 위한 음소거 제거</string>
+    <string name="time_is_up">시간이 다 되었네요!</string>
+    <string name="time_remaining">::time:: 남아있습니다</string>
+    <string name="speak_time">예를 들어 \"two minutes과 같이 시간을 말해보세요</string>
+    <string name="about_ovo_screen">"Ovo는 Ilumbo사의 유쾌한 직원들이 개발하였습니다.
+
+번역에는 멋진 프랑스 친구들인 Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer와 Tanya Zavyalova가 기여하였습니다."</string>
+    <string name="give_us_feedback">피드백 전달하기</string>
+    <string name="rate">::name:: 등급 매기기</string>
+</resources>

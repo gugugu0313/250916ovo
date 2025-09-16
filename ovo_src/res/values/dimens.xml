@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="application_minimal_width">180.0dip</dimen>
+    <dimen name="application_minimal_height">228.0dip</dimen>
+    <dimen name="application_size_comfortable_margin">120.0dip</dimen>
+    <dimen name="small_icon_size">48.0dip</dimen>
+</resources>

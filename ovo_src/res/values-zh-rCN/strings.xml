@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">从::time::开始</string>
+    <string name="set_time_by_voice">通过语音设置</string>
+    <string name="preferences">设置</string>
+    <string name="alarm">闹铃</string>
+    <string name="play_sound">播放铃声</string>
+    <string name="play_sound_summary">倒计时结束时播放铃声</string>
+    <string name="choose_sound">选择铃声</string>
+    <string name="choose_sound_summary">选择倒计时结束要播放的铃声</string>
+    <string name="vibrate">震动</string>
+    <string name="vibrate_summary">倒计时结束时震动</string>
+    <string name="indefinite_alarm">保持提醒</string>
+    <string name="indefinite_alarm_summary">在您要求停下之前一直提醒</string>
+    <string name="preview_alarm">测试提醒</string>
+    <string name="stop_alarm">停</string>
+    <string name="energy">省电</string>
+    <string name="stay_awake">保持唤醒</string>
+    <string name="stay_awake_summary">Ovo在前台运行时屏幕不会休眠</string>
+    <string name="about">关于</string>
+    <string name="about_ovo">关于ovo</string>
+    <string name="about_ovo_summary">更多关于ovo，或者给我们意见反馈</string>
+    <string name="low_volume">当前音量设置过低</string>
+    <string name="muted">当前音量设置为静音</string>
+    <string name="time_is_up">时间到！</string>
+    <string name="time_remaining">倒计时 ::time::</string>
+    <string name="speak_time">说出时间，例如\"两分钟\"</string>
+    <string name="about_ovo_screen">"Ovo由Ilumbo团队开发。
+
+翻译由某个匿名法国人、以及Alienz、Bill Du、David Prieto、Franco Ponticelli、Kei Igarashi、Lucas van der Vegt、Matthias Bauer和Tanya Zavyalova提供。"</string>
+    <string name="give_us_feedback">意见反馈</string>
+    <string name="rate">去::name::评分</string>
+</resources>

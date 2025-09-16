@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Décompter à partir de ::time::</string>
+    <string name="set_time_by_voice">Régler la durée par la voix</string>
+    <string name="preferences">Préférences</string>
+    <string name="alarm">Alarme</string>
+    <string name="play_sound">Jouer un Son</string>
+    <string name="play_sound_summary">Jouer un son quand le décompte arrive à zéro seconde</string>
+    <string name="choose_sound">Choisir Son</string>
+    <string name="choose_sound_summary">Choisir le Son qui est joué quand le décompte arrive à zéro seconde</string>
+    <string name="vibrate">Vibreur</string>
+    <string name="vibrate_summary">Vibrer quand le décompte arrive à zéro seconde</string>
+    <string name="indefinite_alarm">"Sonner Jusqu'à Arrêt"</string>
+    <string name="indefinite_alarm_summary">"Fait sonner l'alarme jusqu'à ce que vous l'arrêtiez"</string>
+    <string name="preview_alarm">Tester Alarme</string>
+    <string name="stop_alarm">Arrêter</string>
+    <string name="energy">Energie</string>
+    <string name="stay_awake">Rester Éveillé</string>
+    <string name="stay_awake_summary">"Garde l'écran allumé tant qu'Ovo est visible"</string>
+    <string name="about">À Propos</string>
+    <string name="about_ovo">À propos de cette application</string>
+    <string name="about_ovo_summary">En apprendre plus sur Ovo, donner votre avis</string>
+    <string name="low_volume">Le volume de votre appareil est très faible</string>
+    <string name="muted">Le son de votre appareil est désactivé</string>
+    <string name="time_is_up">Temps écoulé!</string>
+    <string name="time_remaining">Reste ::time::</string>
+    <string name="speak_time">Dire la durée, ex: « deux minutes »</string>
+    <string name="about_ovo_screen">"Ovo a été développé par les gens cools d'Ilumbo.
+
+Les traductions fournies par un gars français, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer et Tanya Zavyalova."</string>
+    <string name="give_us_feedback">Donner votre Avis</string>
+    <string name="rate">Noter sur ::name::</string>
+</resources>

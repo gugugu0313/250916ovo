@@ -1,0 +1,7 @@
+*.txt
+*.idea/
+*.bat
+*.jar
+*.jks
+*.key*
+*.idsig

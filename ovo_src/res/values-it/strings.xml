@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Countdown dalle ::time::</string>
+    <string name="set_time_by_voice">Impostare il tempo a voce</string>
+    <string name="preferences">Preferenze</string>
+    <string name="alarm">Allarme</string>
+    <string name="play_sound">Attiva Suoneria</string>
+    <string name="play_sound_summary">Suona quando arriva a zero secondi</string>
+    <string name="choose_sound">Seleziona Suono</string>
+    <string name="choose_sound_summary">Scegli il suono da eseguire quando arriva a zero secondi</string>
+    <string name="vibrate">Vibra</string>
+    <string name="vibrate_summary">Vibra a zero secondi</string>
+    <string name="indefinite_alarm">Arresto Manuale</string>
+    <string name="indefinite_alarm_summary">"Mantieni l'allarme attivo"</string>
+    <string name="preview_alarm">Anteprima Allarme</string>
+    <string name="stop_alarm">Arrestare</string>
+    <string name="energy">Energia</string>
+    <string name="stay_awake">Rimani Attivo</string>
+    <string name="stay_awake_summary">Mantieni lo schermo attivo fintanto che Ovo è visibile</string>
+    <string name="about">Informazioni</string>
+    <string name="about_ovo">Informazioni su questa Applicazione</string>
+    <string name="about_ovo_summary">Ottieni altre informazioni su Ovo e lascia un commento</string>
+    <string name="low_volume">Il tuo volume è davvero basso</string>
+    <string name="muted">Il tuo apparecchio è silenziato</string>
+    <string name="time_is_up">Tempo scaduto!</string>
+    <string name="time_remaining">::time:: restante</string>
+    <string name="speak_time">"Descrivi l'intervallo, esempio \"due minuti\""</string>
+    <string name="about_ovo_screen">"Ovo è stato sviluppato da alcune simpatiche persone della Ilumbo.
+
+Le traduzioni sono state realizzate da un tizio Francese, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer e Tanya Zavyalova."</string>
+    <string name="give_us_feedback">Mandaci un Commento</string>
+    <string name="rate">Valutazione in ::name::</string>
+</resources>

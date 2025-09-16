@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Aftellen van ::time::</string>
+    <string name="set_time_by_voice">Spraakgestuurd tijd instellen</string>
+    <string name="preferences">Voorkeuren</string>
+    <string name="alarm">Alarm</string>
+    <string name="play_sound">Speel Geluid</string>
+    <string name="play_sound_summary">Speel een geluid bij nul seconden</string>
+    <string name="choose_sound">Kies Geluid</string>
+    <string name="choose_sound_summary">Kies het geluid dat wordt gespeeld bij nul seconden</string>
+    <string name="vibrate">Tril</string>
+    <string name="vibrate_summary">Tril bij nul seconden</string>
+    <string name="indefinite_alarm">Handmatig Stoppen</string>
+    <string name="indefinite_alarm_summary">Alarm blijft gaan tot interactie</string>
+    <string name="preview_alarm">Instellingen testen</string>
+    <string name="stop_alarm">Stoppen</string>
+    <string name="energy">Energie</string>
+    <string name="stay_awake">Blijf Wakker</string>
+    <string name="stay_awake_summary">Houd het scherm aan zolang ovo zichtbaar is</string>
+    <string name="about">Over</string>
+    <string name="about_ovo">Over deze Applicatie</string>
+    <string name="about_ovo_summary">Leer meer over ovo, en geef feedback</string>
+    <string name="low_volume">Je volume staat erg laag</string>
+    <string name="muted">Je apparaat staat op stil</string>
+    <string name="time_is_up">De tijd is om!</string>
+    <string name="time_remaining">::time:: resterend</string>
+    <string name="dashclock_description">Toont de tijd in ovo, indien ovo in ingesteld.</string>
+    <string name="speak_time">Spreek tijd in, bijv. \"twee minuten\"</string>
+    <string name="about_ovo_screen">"Ovo is ontwikkeld door de aardige mensen van Ilumbo.
+
+Vertalingen zijn bijgedragen door een Franse gast, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer en Tanya Zavyalova."</string>
+    <string name="give_us_feedback">Geef ons Feedback</string>
+    <string name="rate">Beoordeel op ::name::</string>
+</resources>

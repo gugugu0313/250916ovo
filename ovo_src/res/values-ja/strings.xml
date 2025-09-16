@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">オーヴォー</string>
+    <string name="countdown_from">カウントダウン：::time::</string>
+    <string name="set_time_by_voice">声で時間を設定する</string>
+    <string name="preferences">設定</string>
+    <string name="alarm">アラーム</string>
+    <string name="play_sound">サウンド</string>
+    <string name="play_sound_summary">カウント終了をサウンドで通知する</string>
+    <string name="choose_sound">サウンドの設定</string>
+    <string name="choose_sound_summary">カウント終了時のサウンドを選択できます</string>
+    <string name="vibrate">バイブ</string>
+    <string name="vibrate_summary">カウント終了をバイブで通知する</string>
+    <string name="indefinite_alarm">アラームの停止</string>
+    <string name="indefinite_alarm_summary">手動でアラームを停止する</string>
+    <string name="preview_alarm">この設定でサウンドをテスト</string>
+    <string name="stop_alarm">停止</string>
+    <string name="energy">省エネ設定</string>
+    <string name="stay_awake">スクリーンの表示</string>
+    <string name="stay_awake_summary">最前面で起動時はスリープモードをオフ</string>
+    <string name="about">オーヴォーについて</string>
+    <string name="about_ovo">アプリについて</string>
+    <string name="about_ovo_summary">オーヴォーについてもっと詳しく／フィードバックフォーム</string>
+    <string name="low_volume">ボリュームが小さく設定されています</string>
+    <string name="muted">マナーモードに設定されています</string>
+    <string name="time_is_up">アラームの終了！</string>
+    <string name="time_remaining">残り時間：::time::</string>
+    <string name="dashclock_description">オーヴォーで設定したアラームをダッシュクロックに読み込む。</string>
+    <string name="speak_time">音声で時間を指定してください（例：two minutes）</string>
+    <string name="about_ovo_screen">"オーヴォーはIlumboの愉快な仲間たちによって開発されました。
+
+翻訳にはとあるフランス人たち、Alienz、Bill Du、David Prieto、Franco Ponticelli、Kei Igarashi、Lucas van der Vegt、Matthias Bauer、Tanya Zavyalovaが力を貸してくれました。"</string>
+    <string name="give_us_feedback">フィードバックを送る</string>
+    <string name="rate">::name::で評価する</string>
+</resources>

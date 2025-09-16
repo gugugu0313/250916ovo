@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/alarm">
+        <CheckBoxPreference android:title="@string/play_sound" android:key="play_sound" android:summary="@string/play_sound_summary" android:defaultValue="true" />
+        <RingtonePreference android:title="@string/choose_sound" android:key="sound" android:summary="@string/choose_sound_summary" android:dependency="play_sound" android:defaultValue="no-preference" android:shouldDisableView="true" android:ringtoneType="alarm|notification" android:showDefault="false" android:showSilent="false" />
+        <CheckBoxPreference android:title="@string/vibrate" android:key="vibrate" android:summary="@string/vibrate_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/indefinite_alarm" android:key="indefinite_alarm" android:summary="@string/indefinite_alarm_summary" android:defaultValue="false" />
+        <org.ilumbo.ovo.preferences.ButtonPreference android:title="@string/preview_alarm" android:key="preview_alarm" android:shouldDisableView="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/energy">
+        <CheckBoxPreference android:title="@string/stay_awake" android:key="stay_awake" android:summary="@string/stay_awake_summary" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/about">
+        <Preference android:title="@string/about_ovo" android:key="about_ovo" android:summary="@string/about_ovo_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

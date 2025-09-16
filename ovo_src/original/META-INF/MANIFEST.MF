@@ -1,0 +1,159 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/xml/preferences.xml
+SHA1-Digest: HdpfUCAo6YseXVX6J3HJYRdEjX4=
+
+Name: res/drawable-nodpi/dashclock_icon.png
+SHA1-Digest: seAG3AQSEGonsB42qOG51Els2Ko=
+
+Name: res/drawable-mdpi/action_reuse_most_recently_set_time.png
+SHA1-Digest: 8MpXd0HAiEjnE4korZatQuztHks=
+
+Name: res/drawable-mdpi/launcher_icon.png
+SHA1-Digest: E+uM8l4PH0ol9+F2EE0xOWXBgtI=
+
+Name: res/drawable-hdpi-v11/notification_ongoing.png
+SHA1-Digest: +9DArGALROUMPuJnI4i0OZ4OrsI=
+
+Name: res/layout-v14/paused_icon.xml
+SHA1-Digest: KK2ClXcrnYkUERBnmdD4/3bVa8Y=
+
+Name: res/drawable-xhdpi/notification_ongoing.png
+SHA1-Digest: KsXm0YwogyOMZPIqQPBg68K29Ow=
+
+Name: res/drawable-xhdpi/action_accept.png
+SHA1-Digest: RlcKwGT25mxeZMiyTf31jcYNHek=
+
+Name: res/drawable-mdpi/actionbar_home.png
+SHA1-Digest: +YFQ7Dtlh11bGvM/6Mk0RlVxnWI=
+
+Name: res/drawable-xhdpi-v11/notification_times_up.png
+SHA1-Digest: u72+rz2HpXTzcsp8u8YDp7GxYIs=
+
+Name: res/drawable-xxhdpi/launcher_icon.png
+SHA1-Digest: UgFdjl+Ti5GrjToxrlhHxMfyMCo=
+
+Name: res/drawable-mdpi-v9/notification_ongoing.png
+SHA1-Digest: aN3BxtMmXSTBp5RS/BuVOg4yMdQ=
+
+Name: res/drawable-xhdpi/set_time_by_voice.png
+SHA1-Digest: fkmVBi9RsH61n3i/aJnVlqxPq+4=
+
+Name: res/drawable-mdpi/notification_ongoing.png
+SHA1-Digest: Keb+vtLNXRB1Bg9UcN8fuWvp4hA=
+
+Name: res/drawable-mdpi/set_time_by_voice.png
+SHA1-Digest: +c3TrQdGkm7ABGMH9oJL07TZsVk=
+
+Name: res/layout-v11/paused_icon.xml
+SHA1-Digest: 0cCCkJzhZA4wNw7SFockjpBfM+Y=
+
+Name: res/drawable-hdpi/launcher_icon.png
+SHA1-Digest: KDBr3Mrow7+kCnqpQgGd+pwjJ5g=
+
+Name: res/drawable-hdpi-v9/notification_ongoing.png
+SHA1-Digest: omULIelCSfKiw2DxCuFbwKQsZcI=
+
+Name: res/drawable-mdpi/hand_cursor.png
+SHA1-Digest: eigPBhocVQeH6SSqCnio1nYAh/c=
+
+Name: res/drawable-xhdpi/hand_cursor.png
+SHA1-Digest: iXwNEFk6Ioj7Ef+6QUEBOStQaTI=
+
+Name: res/drawable-xhdpi-v9/notification_ongoing.png
+SHA1-Digest: aAW8yGelacBghFKP41ECR7ggaoQ=
+
+Name: res/layout-v11/actionbar_ok_button.xml
+SHA1-Digest: IKPhg1FEFgREk1bapBIE9G6wJM8=
+
+Name: res/drawable-hdpi/set_time_by_voice.png
+SHA1-Digest: kfGEvvKIwj9zTjvBtqdAhoTQZ48=
+
+Name: res/drawable-hdpi/hand_cursor.png
+SHA1-Digest: YOivLANG9u4TJxDREnEUboqLzmU=
+
+Name: res/drawable-mdpi/action_preferences.png
+SHA1-Digest: w7LTSACoBp+AgaWDoQN9qQrPrw0=
+
+Name: res/drawable-hdpi-v11/notification_times_up.png
+SHA1-Digest: 93mmG1VJ058BgJwodB+QXqbSn+8=
+
+Name: res/drawable-hdpi/notification_ongoing.png
+SHA1-Digest: soVaiHrbXcxw/AjEYsteSIT4XWA=
+
+Name: res/drawable-xhdpi/action_set_time_by_voice.png
+SHA1-Digest: 35ZV9HLdXKAbLe5ub3HVY3Y2uCs=
+
+Name: res/drawable-xhdpi/notification_times_up.png
+SHA1-Digest: 47UAhPhUqe2mDBevRynO6F3ljHs=
+
+Name: res/drawable-mdpi/notification_times_up.png
+SHA1-Digest: JUzSxfJcEm582Nilw5GnZ5eaEGM=
+
+Name: res/drawable-hdpi/action_preferences.png
+SHA1-Digest: xb9G1/dbC8IB67wntr0OlEei/m0=
+
+Name: res/drawable-hdpi-v9/notification_times_up.png
+SHA1-Digest: rxL4r9f26gFk7KaVJ3byntirwXU=
+
+Name: resources.arsc
+SHA1-Digest: zDTqhAHL27YAqfcP6NYEtSLDF0A=
+
+Name: res/drawable-xhdpi/launcher_icon.png
+SHA1-Digest: vX0+tinTkYJxYEvL7qaRpyQoAEc=
+
+Name: res/drawable-xhdpi/actionbar_home.png
+SHA1-Digest: 206DV3hnA2kRwO1iNFjsNLhha3s=
+
+Name: res/drawable-mdpi/action_accept.png
+SHA1-Digest: Be+1dZ6Evmz0u0jXtbmFknIGR3M=
+
+Name: res/drawable-hdpi/action_accept.png
+SHA1-Digest: k+JVWJWfsA5LQkOlRpkMzIdvJXs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: nI3mQoajLcm0zMM02JDoPzZIHNk=
+
+Name: res/drawable-hdpi/notification_times_up.png
+SHA1-Digest: baK8eVmPivoC5smsxvCYvIWqYwQ=
+
+Name: res/drawable-hdpi/action_set_time_by_voice.png
+SHA1-Digest: EuAlXEPNWGxGrFYk05KiyVwHEM8=
+
+Name: res/drawable-hdpi/actionbar_home.png
+SHA1-Digest: Uye2x3U+O5pk++2SgGUyxv6I0c4=
+
+Name: res/drawable-mdpi-v11/notification_ongoing.png
+SHA1-Digest: aJXUFUXkE86ZdwAlJzPGBOFppPE=
+
+Name: res/menu/menu.xml
+SHA1-Digest: gpQr6UH0Nyuz/mpnF8U7ivrobCg=
+
+Name: res/drawable-mdpi/action_set_time_by_voice.png
+SHA1-Digest: WPxWKW9Cr+zBXh/cnDCysZ4QIuA=
+
+Name: res/drawable-xhdpi/action_reuse_most_recently_set_time.png
+SHA1-Digest: 1XgS63Gm/f/Rpm/l2K40fgFhbf8=
+
+Name: classes.dex
+SHA1-Digest: ech8gIqitqu7Rf5454Int0XvcfU=
+
+Name: res/drawable-mdpi-v9/notification_times_up.png
+SHA1-Digest: x/P+IVreXp/tYS4qTXRZTvD88xE=
+
+Name: res/drawable-xhdpi-v11/notification_ongoing.png
+SHA1-Digest: qkiYPatIUpODpRReCGcbaIxyYZw=
+
+Name: res/drawable-xhdpi-v9/notification_times_up.png
+SHA1-Digest: uvIa36rQE9BEZfnMzUJCBqLIVkM=
+
+Name: res/drawable-xhdpi/action_preferences.png
+SHA1-Digest: m1H6LEoRJGlMEVRUGnfyMtI0b7k=
+
+Name: res/drawable-hdpi/action_reuse_most_recently_set_time.png
+SHA1-Digest: ewnW/1YW81Iu7LQXtF7t77cerIA=
+
+Name: res/drawable-mdpi-v11/notification_times_up.png
+SHA1-Digest: 09Bj9daJL2Cz9jizKTfJK/1A6qY=
+

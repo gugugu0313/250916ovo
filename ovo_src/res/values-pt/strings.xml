@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Cronometrar de ::time::</string>
+    <string name="set_time_by_voice">Establecer o tempo por voz</string>
+    <string name="preferences">Preferências</string>
+    <string name="alarm">Alarme</string>
+    <string name="play_sound">Tocar Som</string>
+    <string name="play_sound_summary">Tocar som aos zero segundos</string>
+    <string name="choose_sound">Escolha o Som</string>
+    <string name="choose_sound_summary">Escolha o som que vai ser tocado aos zero segundos</string>
+    <string name="vibrate">Vibrar</string>
+    <string name="vibrate_summary">Vibrar aos zero segundos</string>
+    <string name="indefinite_alarm">Parar Manualmente</string>
+    <string name="indefinite_alarm_summary">O alarme continua soar até que você acabe-o</string>
+    <string name="preview_alarm">Anteprima do Alarme</string>
+    <string name="stop_alarm">Parar</string>
+    <string name="energy">Energia</string>
+    <string name="stay_awake">Sempre Activo</string>
+    <string name="stay_awake_summary">Mantenha o ecrã activo enquanto o Ovo for visível</string>
+    <string name="about">Sobre</string>
+    <string name="about_ovo">Sobre este Aplicativo</string>
+    <string name="about_ovo_summary">Saiba mais sobre o Ovo, e contribua comentários</string>
+    <string name="low_volume">O seu volume está muito baixo</string>
+    <string name="muted">O dispositivo está silenciado</string>
+    <string name="time_is_up">Acabou-se o tempo!</string>
+    <string name="time_remaining">::time:: restante</string>
+    <string name="speak_time">Diga a duração, p. ex. \"dois minutos\"</string>
+    <string name="about_ovo_screen">"Ovo foi desenvolvido para uns bacanos da Ilumbo.
+
+As traduções foram contribuídas por uns cara francês, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer e Tanya Zavyalova."</string>
+    <string name="give_us_feedback">Dê-nos Comentários</string>
+    <string name="rate">Votação no ::name::</string>
+</resources>

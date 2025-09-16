@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Đếm lùi từ ::time::</string>
+    <string name="set_time_by_voice">Đặt giờ bằng giọng nói</string>
+    <string name="preferences">Thiết lập</string>
+    <string name="alarm">Chuông báo</string>
+    <string name="play_sound">Đổ chuông</string>
+    <string name="play_sound_summary">Đổ chuông khi đồng hồ về không</string>
+    <string name="choose_sound">Chọn chuông báo</string>
+    <string name="choose_sound_summary">Chọn chuông báo sử dụng khi đồng hồ về không</string>
+    <string name="vibrate">Rung</string>
+    <string name="vibrate_summary">Rung khi đồng hồ về không</string>
+    <string name="indefinite_alarm">Đổ chuông đến khi có tác động</string>
+    <string name="indefinite_alarm_summary">Đổ chuông đến khi bạn bấm nút dừng</string>
+    <string name="preview_alarm">Thử thiết lập</string>
+    <string name="stop_alarm">Dừng</string>
+    <string name="energy">Năng lượng</string>
+    <string name="stay_awake">Luôn sáng</string>
+    <string name="stay_awake_summary">Giữ cho màn hình luôn sáng khi mở ovo</string>
+    <string name="about">Giới thiệu</string>
+    <string name="about_ovo">Về ứng dụng này</string>
+    <string name="about_ovo_summary">Tìm hiểu thêm về ovo, và viết nhận xét</string>
+    <string name="low_volume">Âm lượng máy quá thấp</string>
+    <string name="muted">Bật tiếng để nghe chuôn báo</string>
+    <string name="time_is_up">Hết giờ!</string>
+    <string name="time_remaining">Còn ::time::</string>
+    <string name="dashclock_description">Hiển thị thời gian trong ovo, nếu đã đặt giờ.</string>
+    <string name="speak_time">Hãy đọc thời gian, ví dụ \"two minutes\"</string>
+    <string name="about_ovo_screen">Ovo được viết bởi những nhà phát triển dễ thương ở Ilumbo. Các bản dịch được đóng góp bởi một người Pháp, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer và Tanya Zavyalova.</string>
+    <string name="give_us_feedback">Viết nhận xét</string>
+    <string name="rate">Đánh giá trên ::name::</string>
+</resources>

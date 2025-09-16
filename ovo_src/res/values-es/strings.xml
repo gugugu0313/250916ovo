@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Contar desde ::time::</string>
+    <string name="set_time_by_voice">Establecer por voz</string>
+    <string name="preferences">Ajustes</string>
+    <string name="alarm">Alarma</string>
+    <string name="play_sound">Reproducir tono</string>
+    <string name="play_sound_summary">Reproducir un tono al llegar a cero</string>
+    <string name="choose_sound">Elegir tono</string>
+    <string name="choose_sound_summary">Elegir el tono que sonará</string>
+    <string name="vibrate">Vibrar</string>
+    <string name="vibrate_summary">Vibrar al llegar a cero</string>
+    <string name="indefinite_alarm">Alarma hasta interacción</string>
+    <string name="indefinite_alarm_summary">Mantener la alarma hasta que la pare el usuario</string>
+    <string name="preview_alarm">Probar la alarma</string>
+    <string name="stop_alarm">Parar</string>
+    <string name="energy">Energía</string>
+    <string name="stay_awake">Mantener despierto</string>
+    <string name="stay_awake_summary">No apagar la pantalla si ovo está en pantalla</string>
+    <string name="about">Acerca de</string>
+    <string name="about_ovo">Acerca de esta aplicación</string>
+    <string name="about_ovo_summary">Saber más sobre ovo y enviar comentarios</string>
+    <string name="low_volume">El volumen está muy bajo</string>
+    <string name="muted">El móvil está en silencio, la alarma no se oirá</string>
+    <string name="time_is_up">¡Es la hora!</string>
+    <string name="time_remaining">::time:: restantes</string>
+    <string name="speak_time">Di el tiempo, p.ej. \"dos minutos\"</string>
+    <string name="about_ovo_screen">"Ovo ha sido creado por los simpáticos desarrolladores de Ilumbo.
+
+Las traducciones son de un francés, de Alienz, de Bill Du, de David Prieto, de Franco Ponticelli, de Kei Igarashi, de Lucas van der Vegt, de Matthias Bauer y de Tanya Zavyalova."</string>
+    <string name="give_us_feedback">Enviar comentarios</string>
+    <string name="rate">Puntuar en ::name::</string>
+</resources>

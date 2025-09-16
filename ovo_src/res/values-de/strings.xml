@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Countdown ab ::time::</string>
+    <string name="set_time_by_voice">Spracheingabe</string>
+    <string name="preferences">Einstellungen</string>
+    <string name="alarm">Wecker</string>
+    <string name="play_sound">Ton abspielen</string>
+    <string name="play_sound_summary">Tonsignal nach Ablauf der Zeit</string>
+    <string name="choose_sound">Klingelton</string>
+    <string name="choose_sound_summary">Wähle den Klingelton, der abgespielt wird</string>
+    <string name="vibrate">Vibrieren</string>
+    <string name="vibrate_summary">Vibration nach Ablauf der Zeit</string>
+    <string name="indefinite_alarm">Alarm bei Interaktion stoppen</string>
+    <string name="indefinite_alarm_summary">Signal abspielen, bis du es stoppst</string>
+    <string name="preview_alarm">Einstellungen testen</string>
+    <string name="stop_alarm">Abbrechen</string>
+    <string name="energy">Energieeinstellungen</string>
+    <string name="stay_awake">Aktiv lassen</string>
+    <string name="stay_awake_summary">Bildschirm nicht abschalten, während Ovo läuft</string>
+    <string name="about">Über</string>
+    <string name="about_ovo">Über Ovo</string>
+    <string name="about_ovo_summary">Mehr über Ovo erfahren und Feedback geben</string>
+    <string name="low_volume">Die Lautstärke ist ziemlich niedrig eingestellt</string>
+    <string name="muted">Dein Gerät ist auf lautlos eingestellt</string>
+    <string name="time_is_up">Die Zeit ist um!</string>
+    <string name="time_remaining">::time:: verbleibend</string>
+    <string name="speak_time">Zeit sprechen, z.B. \"zwei Minuten\"</string>
+    <string name="about_ovo_screen">"Ovo wurde von den netten Leuten von Ilumbo entwickelt.
+
+Übersetzungen wurden von 'nem Franzosen, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer und Tanya Zavyalova beigesteuert."</string>
+    <string name="give_us_feedback">Feedback senden</string>
+    <string name="rate">Im ::name:: bewerten</string>
+</resources>

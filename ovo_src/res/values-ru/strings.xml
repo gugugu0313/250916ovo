@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countdown_from">Обратный отсчет ::time::</string>
+    <string name="set_time_by_voice">Установить время с помощью голоса</string>
+    <string name="preferences">Настройки</string>
+    <string name="alarm">Звуковой сигнал</string>
+    <string name="play_sound">Подать сигнал</string>
+    <string name="play_sound_summary">По окончании</string>
+    <string name="choose_sound">Выбрать звук</string>
+    <string name="choose_sound_summary">Выбрать звук, который проиграется по окончании</string>
+    <string name="vibrate">Выбро-сигнал</string>
+    <string name="vibrate_summary">Подать вибро-сигнал по окончании</string>
+    <string name="indefinite_alarm">Звонить до взаимодействия</string>
+    <string name="indefinite_alarm_summary">Будильник продолжит звонить пока вы его не выключите</string>
+    <string name="preview_alarm">Тестировать настройки</string>
+    <string name="stop_alarm">Стоп</string>
+    <string name="energy">Питание</string>
+    <string name="stay_awake">Не уходить в спящий режим</string>
+    <string name="stay_awake_summary">Оставлять экран включенным, если ovo на экране</string>
+    <string name="about">О приложении</string>
+    <string name="about_ovo">Об этом приложении</string>
+    <string name="about_ovo_summary">Узнайте больше об ovo и поделитесь впечатлениями</string>
+    <string name="low_volume">Звук очень тихий</string>
+    <string name="muted">Выйти их беззвучного режима, чтобы слышать сигнал</string>
+    <string name="time_is_up">Время истекло!</string>
+    <string name="time_remaining">Осталось ::time::</string>
+    <string name="speak_time">Назовите время, например \"twо minutes\"</string>
+    <string name="about_ovo_screen">"Ovo создали отличные ребята из Ilumbo.
+
+В переводе участвовали: один французский парень, Alienz, Билл Ду, Девид Прето, Франко Понтичелли, Кей Игараши, Лукас ван дер Вэхт, Матиас Бауэр и Таня Завьялова."</string>
+    <string name="give_us_feedback">Поделитесь впечатлениями</string>
+    <string name="rate">Оцените в ::name::</string>
+</resources>

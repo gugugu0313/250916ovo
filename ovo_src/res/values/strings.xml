@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Ovo</string>
+    <string name="countdown_from">Countdown from ::time::</string>
+    <string name="set_time_by_voice">Set time by voice</string>
+    <string name="preferences">Preferences</string>
+    <string name="alarm">Alarm</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="play_sound_summary">Play a sound at zero seconds</string>
+    <string name="choose_sound">Choose Sound</string>
+    <string name="choose_sound_summary">Pick the sound that is played at zero seconds</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vibrate_summary">Vibrate at zero seconds</string>
+    <string name="indefinite_alarm">Alarm until Interaction</string>
+    <string name="indefinite_alarm_summary">Keep alarm going until you stop it</string>
+    <string name="preview_alarm">Test Settings</string>
+    <string name="stop_alarm">Stop</string>
+    <string name="energy">Energy</string>
+    <string name="stay_awake">Stay Awake</string>
+    <string name="stay_awake_summary">Keep the screen on as long as ovo is visible</string>
+    <string name="about">About</string>
+    <string name="about_ovo">About this Application</string>
+    <string name="about_ovo_summary">Learn more about ovo, and give feedback</string>
+    <string name="low_volume">Your volume is very low</string>
+    <string name="muted">Unmute to hear the alarm</string>
+    <string name="time_is_up">"Time's up!"</string>
+    <string name="time_remaining">::time:: remaining</string>
+    <string name="dashclock_description">Displays the time in ovo, if ovo has been set.</string>
+    <string name="speak_time">Speak time, e.g. \"two minutes\"</string>
+    <string name="about_ovo_screen">"Ovo was developed by Ilumbo.
+
+Translations were contributed by a French man, Alienz, Bill Du, David Prieto, Franco Ponticelli, Kei Igarashi, Lucas van der Vegt, Matthias Bauer and Tanya Zavyalova."</string>
+    <string name="give_us_feedback">Give us Feedback</string>
+    <string name="rate">Rate on ::name::</string>
+</resources>

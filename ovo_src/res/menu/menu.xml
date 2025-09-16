@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/action_reuse_most_recently_set_time" android:id="@id/reuse_most_recently_set_time_item" android:visible="false" android:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/action_set_time_by_voice" android:id="@id/set_time_by_voice_item" android:visible="false" android:title="@string/set_time_by_voice" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/action_preferences" android:id="@id/preferences_item" android:title="@string/preferences" android:showAsAction="never" />
+</menu>

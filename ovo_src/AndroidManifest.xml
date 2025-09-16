@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:installLocation="auto"
+    package="org.ilumbo.ovo">
+
+    <uses-sdk android:minSdkVersion="29" android:targetSdkVersion="34" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/launcher_icon"
+        android:label="@string/application_name"
+        android:supportsRtl="true">
+
+        <meta-data android:name="com.sec.android.support.multiwindow" android:value="true"/>
+
+        <!-- TimerActivity 必须添加 android:exported="true" -->
+        <activity
+            android:configChanges="keyboard|keyboardHidden|mcc|mnc|orientation|screenSize"
+            android:label="@string/application_name"
+            android:launchMode="singleTask"
+            android:name=".TimerActivity"
+            android:exported="true">
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.ilumbo.ovo.internal.action.OVERWRITE_STATE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.ilumbo.ovo.internal.action.SET_TIME_BY_VOICE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.ilumbo.ovo.action.FIDDLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <!-- InterfaceActivity 也必须添加 android:exported="true" -->
+        <activity
+            android:excludeFromRecents="true"
+            android:label="@string/application_name"
+            android:name=".InterfaceActivity"
+            android:theme="@android:style/Theme.NoDisplay"
+            android:exported="true">
+            
+            <intent-filter>
+                <action android:name="android.intent.action.SET_TIMER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.COUNTDOWN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/absolute-milliseconds"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.COUNTDOWN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/relative-milliseconds"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:label="@string/preferences" android:name=".preferences.PreferencesActivity"/>
+
+        <receiver android:exported="false" android:name=".alarm.MediaButtonReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:exported="false"
+            android:name=".alarm.BackgroundProcessMediaButtonReceiver"
+            android:process=":BackgroundTimerService">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:exported="false"
+            android:name=".timing.BackgroundAlarmService"
+            android:process=":BackgroundTimerService">
+            <intent-filter>
+                <action android:name="org.ilumbo.ovo.action.ALARM"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.ilumbo.ovo.action.STOP_ALARM"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+
+        <service
+            android:exported="true"
+            android:icon="@drawable/dashclock_icon"
+            android:label="@string/application_name"
+            android:name=".dashclock.Extension"
+            android:permission="com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA">
+            <intent-filter>
+                <action android:name="com.google.android.apps.dashclock.Extension"/>
+            </intent-filter>
+            <meta-data android:name="protocolVersion" android:value="1"/>
+            <meta-data android:name="description" android:value="@string/dashclock_description"/>
+        </service>
+
+        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_W" android:resource="@dimen/application_minimal_width"/>
+        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H" android:resource="@dimen/application_minimal_height"/>
+
+    </application>
+</manifest>

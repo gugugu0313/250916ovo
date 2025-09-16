@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="seconds">
+        <item>second</item>
+        <item>seconds</item>
+        <item>sekunde</item>
+        <item>sekunden</item>
+        <item>segundo</item>
+        <item>segunda</item>
+        <item>segundos</item>
+        <item>seconde</item>
+        <item>secondes</item>
+        <item>secondo</item>
+        <item>secondi</item>
+        <item>seconden</item>
+    </string-array>
+    <string-array name="minutes">
+        <item>minute</item>
+        <item>minutes</item>
+        <item>minuten</item>
+        <item>minuto</item>
+        <item>minutos</item>
+        <item>minuti</item>
+        <item>minuut</item>
+    </string-array>
+    <string-array name="hours">
+        <item>hour</item>
+        <item>hours</item>
+        <item>stunde</item>
+        <item>stunden</item>
+        <item>hora</item>
+        <item>horas</item>
+        <item>heure</item>
+        <item>heures</item>
+        <item>ora</item>
+        <item>ore</item>
+        <item>uur</item>
+        <item>uren</item>
+    </string-array>
+    <string-array name="half">
+        <item>half</item>
+        <item>halb</item>
+        <item>halbe</item>
+        <item>halben</item>
+        <item>halbes</item>
+        <item>halber</item>
+        <item>media</item>
+        <item>medio</item>
+        <item>demi</item>
+        <item>demie</item>
+        <item>mezzo</item>
+        <item>mezz</item>
+        <item>halve</item>
+        <item>meia</item>
+        <item>meio</item>
+    </string-array>
+    <string-array name="ones">
+        <item>one</item>
+        <item>a</item>
+        <item>an</item>
+        <item>ein</item>
+        <item>eins</item>
+        <item>einen</item>
+        <item>eines</item>
+        <item>einer</item>
+        <item>un</item>
+        <item>una</item>
+        <item>unos</item>
+        <item>unas</item>
+        <item>une</item>
+        <item>uno</item>
+        <item>een</item>
+        <item>één</item>
+        <item>eén</item>
+        <item>um</item>
+        <item>uma</item>
+        <item>uns</item>
+        <item>umas</item>
+    </string-array>
+    <string-array name="twoes">
+        <item>two</item>
+        <item>zwei</item>
+        <item>zwo</item>
+        <item>dos</item>
+        <item>deux</item>
+        <item>due</item>
+        <item>twee</item>
+        <item>dois</item>
+    </string-array>
+    <string-array name="threes">
+        <item>three</item>
+        <item>drei</item>
+        <item>tres</item>
+        <item>trois</item>
+        <item>tre</item>
+        <item>drie</item>
+        <item>três</item>
+    </string-array>
+    <string-array name="fours">
+        <item>four</item>
+        <item>for</item>
+        <item>vier</item>
+        <item>cuatro</item>
+        <item>quatre</item>
+        <item>quattro</item>
+        <item>quatro</item>
+    </string-array>
+    <string-array name="fives">
+        <item>five</item>
+        <item>fünf</item>
+        <item>funf</item>
+        <item>cinco</item>
+        <item>cinq</item>
+        <item>cinque</item>
+        <item>vijf</item>
+    </string-array>
+    <string-array name="sixes">
+        <item>six</item>
+        <item>sechs</item>
+        <item>sex</item>
+        <item>seis</item>
+        <item>sei</item>
+        <item>zes</item>
+    </string-array>
+    <string-array name="sevens">
+        <item>seven</item>
+        <item>sieben</item>
+        <item>siete</item>
+        <item>sept</item>
+        <item>sette</item>
+        <item>zeven</item>
+        <item>sete</item>
+    </string-array>
+    <string-array name="eights">
+        <item>eight</item>
+        <item>ate</item>
+        <item>acht</item>
+        <item>ocho</item>
+        <item>huit</item>
+        <item>otto</item>
+        <item>oito</item>
+    </string-array>
+    <string-array name="nines">
+        <item>nine</item>
+        <item>neun</item>
+        <item>nueve</item>
+        <item>neuf</item>
+        <item>nove</item>
+        <item>negen</item>
+    </string-array>
+    <string-array name="tens">
+        <item>ten</item>
+        <item>zehn</item>
+        <item>diez</item>
+        <item>dix</item>
+        <item>dieci</item>
+        <item>tien</item>
+        <item>dez</item>
+    </string-array>
+    <string-array name="combiner">
+        <item>und</item>
+        <item>y</item>
+        <item>en</item>
+        <item>e</item>
+    </string-array>
+    <string-array name="supported_latin_like_language_codes">
+        <item>en</item>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>pt</item>
+    </string-array>
+</resources>
