@@ -79,7 +79,7 @@
 
     sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
 
-    const/16 v5, 0xb
+    const/high16 v5, 0x40000000   # FLAG_IMMUTABLE
 
     if-lt v0, v5, :cond_2
 

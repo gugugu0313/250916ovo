@@ -72,7 +72,7 @@
 
     iget-object v3, p0, Lorg/ilumbo/ovo/timing/a;->b:Landroid/content/Intent;
 
-    const/high16 v4, 0x8000000
+    const v4, 0x0c000000  # FLAG_UPDATE_CURRENT | FLAG_IMMUTABLE
 
     invoke-static {v2, v5, v3, v4}, Landroid/app/PendingIntent;->getService(Landroid/content/Context;ILandroid/content/Intent;I)Landroid/app/PendingIntent;
 
@@ -145,7 +145,7 @@
 
     move-result-object v3
 
-    const/high16 v4, 0x8000000
+    const v4, 0x0c000000  # FLAG_UPDATE_CURRENT | FLAG_IMMUTABLE
 
     invoke-static {v1, v2, v3, v4}, Landroid/app/PendingIntent;->getService(Landroid/content/Context;ILandroid/content/Intent;I)Landroid/app/PendingIntent;
 

@@ -391,7 +391,7 @@
 
     int-to-float v7, v3
 
-    const/16 v9, 0x1e
+    const/16 v9, 0x1f   # Canvas.ALL_SAVE_FLAGS
 
     move-object/from16 v3, p1
 
